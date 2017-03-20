@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="C:\Users\X559335\workspace\flume\flume-ng-sources\flume-twitter-source\src\main\java\org\apache\flume\source\twitter\TwitterSource.java">
+</file>
+<file name="C:\Users\X559335\workspace\flume\flume-ng-sources\flume-twitter-source\src\test\java\org\apache\flume\source\twitter\TestTwitterSource.java">
+</file>
+<file name="C:\Users\X559335\workspace\flume\flume-ng-sources\flume-twitter-source\src\test\resources\log4j.properties">
+</file>
+</checkstyle>
